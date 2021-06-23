@@ -10,5 +10,9 @@ public class Duck {
         System.out.println("Puedo nadar");
     }
 
+    public void fly(){
+        System.out.println("Puedo volar");
+    }
+
     public void display(){}
 }
