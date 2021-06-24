@@ -3,4 +3,6 @@
     cualidades de swimming y quacking.
 3. Se ha empezado a utilizar herencia y sobreescritura de 
     metodos.
-   
+4. Se ha aumentado las interfaces de Flyable, Quackable.
+5. Se ha aumentado las interfaces de FlyBehavior y QuackBehavior 
+    
