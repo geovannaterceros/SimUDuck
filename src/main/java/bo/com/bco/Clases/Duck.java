@@ -1,10 +1,24 @@
 package bo.com.bco.Clases;
 
+import bo.com.bco.Interfaces.FlyBehavior;
+import bo.com.bco.Interfaces.QuackBehavior;
+
 public class Duck {
 
-   public void swim() {
+    FlyBehavior flyBehavior;
+    QuackBehavior quackBehavior;
+
+    public void display(){}
+
+    public void swim() {
         System.out.println("Puedo nadar");
     }
 
-   public void display(){}
+    public void performQuack(){
+        quackBehavior.quack();
+    }
+
+    public void performFly(){
+        flyBehavior.fly();
+    }
 }

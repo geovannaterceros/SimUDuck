@@ -5,4 +5,5 @@
     metodos.
 4. Se ha aumentado las interfaces de Flyable, Quackable.
 5. Se ha aumentado las interfaces de FlyBehavior y QuackBehavior 
-    
+6. Se han implementado las Interfaces FlyBehavior y QuackBehavior en las clases
+    que heredan de la clase Duck.   

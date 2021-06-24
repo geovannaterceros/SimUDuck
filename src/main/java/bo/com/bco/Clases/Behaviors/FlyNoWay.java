@@ -1,4 +1,4 @@
-package bo.com.bco.Clases;
+package bo.com.bco.Clases.Behaviors;
 import bo.com.bco.Interfaces.FlyBehavior;
 
 public class FlyNoWay implements FlyBehavior {
