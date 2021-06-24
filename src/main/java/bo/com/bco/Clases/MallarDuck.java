@@ -1,7 +1,7 @@
 package bo.com.bco.Clases;
 
-import bo.com.bco.Clases.Behaviors.FlyWithWings;
-import bo.com.bco.Clases.Behaviors.Quack;
+import bo.com.bco.Behaviors.FlyWithWings;
+import bo.com.bco.Behaviors.Quack;
 
 public class MallarDuck extends Duck {
 

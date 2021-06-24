@@ -7,3 +7,5 @@
 5. Se ha aumentado las interfaces de FlyBehavior y QuackBehavior 
 6. Se han implementado las Interfaces FlyBehavior y QuackBehavior en las clases
     que heredan de la clase Duck.   
+7. Se ha aumentado un metodo setFlyBehavior y setQuackBehavior para 
+    cambiar dinamicamente el comportamiento de un nuevo modelo pato. 

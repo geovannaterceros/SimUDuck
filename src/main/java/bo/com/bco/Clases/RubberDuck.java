@@ -1,7 +1,7 @@
 package bo.com.bco.Clases;
 
-import bo.com.bco.Clases.Behaviors.FlyNoWay;
-import bo.com.bco.Clases.Behaviors.Squeak;
+import bo.com.bco.Behaviors.FlyNoWay;
+import bo.com.bco.Behaviors.Squeak;
 
 public class RubberDuck extends Duck {
 

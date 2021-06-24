@@ -1,9 +1,7 @@
 package bo.com.bco.Clases;
 
-import bo.com.bco.Clases.Behaviors.FlyNoWay;
-import bo.com.bco.Clases.Behaviors.FlyWithWings;
-import bo.com.bco.Clases.Behaviors.MuteQuack;
-import bo.com.bco.Clases.Behaviors.Quack;
+import bo.com.bco.Behaviors.FlyNoWay;
+import bo.com.bco.Behaviors.MuteQuack;
 
 public class DecoyDuck extends Duck{
 

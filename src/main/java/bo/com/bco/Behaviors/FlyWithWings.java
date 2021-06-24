@@ -1,4 +1,4 @@
-package bo.com.bco.Clases.Behaviors;
+package bo.com.bco.Behaviors;
 import bo.com.bco.Interfaces.FlyBehavior;
 
 public class FlyWithWings implements FlyBehavior{
